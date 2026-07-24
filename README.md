@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Alexander Zaytsev 👋
 
-<!--
-**AlexZaytsev-ai/AlexZaytsev-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer focused on building practical AI workflows for real business tasks.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- n8n
+- OpenAI
+- AI Agents
+- Telegram Bot API
+- Google Workspace
+- Google Sheets
+- HTTP APIs
+- JSON
+
+## 📂 Featured Projects
+
+- 🤖 AI Support Assistant
+- 📅 AI Meeting Assistant
+- 📧 AI Gmail Assistant
+- 🛒 AI Ozon Deal Hunter
+- 🎯 AI Sales Scout
+- 📋 Mini CRM
+
+## 🎯 Current Focus
+
+- Building production-style AI automation projects
+- Improving workflow architecture
+- Learning scalable business automation
+- Preparing for my first AI Automation Engineer role
+
+## 📫 Contact
+
+GitHub Issues or future LinkedIn.
