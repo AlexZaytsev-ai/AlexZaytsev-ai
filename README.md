@@ -1,16 +1,25 @@
 # Hi, I'm Alexander Zaytsev 👋
 
-AI Automation Engineer focused on building practical AI workflows for real business tasks.
+Building AI-powered business automation with n8n, OpenAI and Google Workspace.
 
 ## 🚀 Tech Stack
 
+Automation
 - n8n
-- OpenAI
 - AI Agents
+
+AI
+- OpenAI
+- Prompt Engineering
+- Structured Outputs
+
+Integrations
 - Telegram Bot API
-- Google Workspace
 - Google Sheets
+- Google Calendar
 - HTTP APIs
+
+Data
 - JSON
 
 ## 📂 Featured Projects
@@ -26,9 +35,10 @@ AI Automation Engineer focused on building practical AI workflows for real busin
 
 - Building production-style AI automation projects
 - Improving workflow architecture
-- Learning scalable business automation
+- Designing scalable workflow architectures
 - Preparing for my first AI Automation Engineer role
 
 ## 📫 Contact
 
-GitHub Issues or future LinkedIn.
+Currently building my AI Automation portfolio.
+LinkedIn coming soon.
