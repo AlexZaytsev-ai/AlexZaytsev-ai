@@ -2,7 +2,7 @@
 
 Building AI-powered business automation with n8n, OpenAI and Google Workspace.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 Automation
 - n8n
@@ -22,23 +22,23 @@ Integrations
 Data
 - JSON
 
-## 📂 Featured Projects
+## Featured Projects
 
-- 🤖 AI Support Assistant
-- 📅 AI Meeting Assistant
-- 📧 AI Gmail Assistant
-- 🛒 AI Ozon Deal Hunter
-- 🎯 AI Sales Scout
-- 📋 Mini CRM
+- AI Support Assistant
+- AI Meeting Assistant
+- AI Gmail Assistant
+- AI Ozon Deal Hunter
+- AI Sales Scout
+- Mini CRM
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building production-style AI automation projects
 - Improving workflow architecture
 - Designing scalable workflow architectures
 - Preparing for my first AI Automation Engineer role
 
-## 📫 Contact
+## Contact
 
 Currently building my AI Automation portfolio.
 LinkedIn coming soon.
