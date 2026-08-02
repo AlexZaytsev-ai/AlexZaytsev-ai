@@ -24,12 +24,10 @@ Data
 
 ## Featured Projects
 
-- AI Support Assistant
-- AI Meeting Assistant
-- AI Gmail Assistant
-- AI Ozon Deal Hunter
-- AI Sales Scout
-- Mini CRM
+- Ai-Resume-Screening-Engine
+- AI-Lead-Intelligence-System 
+- AI-Support-Assistant 
+- AI-Meeting-Processing-Engine 
 
 ## Current Focus
 
