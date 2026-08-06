@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Zaytsev 👋
+# Hi, I'm Alexandr Zaytsev 👋
 
 Building AI-powered business automation with n8n, OpenAI and Google Workspace.
 
