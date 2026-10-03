@@ -26,6 +26,7 @@ I design structured workflows where AI handles unstructured data, while business
 **Integrations & Infrastructure**
 
 * Telegram Bot API
+* MAX HTTP API
 * Google Sheets
 * Google Calendar
 * Bitrix24
@@ -33,6 +34,16 @@ I design structured workflows where AI handles unstructured data, while business
 * Git & GitHub
 
 ## Featured Projects
+
+### [Barrier MAX AI Assistant](https://github.com/AlexZaytsev-ai/Barrier-MAX-AI-Assistant)
+
+**Real client project — Barrier door retailer, Kamchatka.**
+
+Consults customers in MAX using OpenAI and conversation history from PostgreSQL. Transfers requests to a staff group and delivers employee replies to the same private chat, with persistent `ai`, `waiting`, and `human` modes.
+
+Core functionality implemented; prepared for customer testing.
+
+`n8n` `MAX API` `OpenAI` `PostgreSQL` `Human Handoff`
 
 ### [AI Invoice Processing Engine](https://github.com/AlexZaytsev-ai/AI-Invoice-Processing-Engine)
 
