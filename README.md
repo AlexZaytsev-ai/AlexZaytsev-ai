@@ -45,6 +45,12 @@ Core functionality implemented; prepared for customer testing.
 
 `n8n` `MAX API` `OpenAI` `PostgreSQL` `Human Handoff`
 
+### [Lead Intake & Handoff](https://github.com/AlexZaytsev-ai/Lead-intake-handoff)
+
+Demo Telegram bot for apartment renovation requests. Collects lead details, answers company questions using PostgreSQL full-text retrieval, and sends summaries and follow-up messages to a manager group. Includes monitoring alerts and recovery of inconsistent lead status.
+
+`n8n` `Telegram` `OpenAI` `PostgreSQL` `RAG` `Structured Outputs`
+
 ### [AI Invoice Processing Engine](https://github.com/AlexZaytsev-ai/AI-Invoice-Processing-Engine)
 
 Processes PDF invoices, validates supplier data, prevents duplicates, stores records in PostgreSQL, and synchronizes results with Bitrix24.
